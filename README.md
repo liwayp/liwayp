@@ -15,6 +15,7 @@
 - 🏭 Building an **ERP for an industrial company** — logistics, wagons, warehouses, labs, accounting integrations
 - 👁️ Into **computer vision**: car & activity detection with YOLO + OpenCV
 - 🤖 Making **AI assistants** that answer from company documents (RAG, FAISS, LLMs)
+- 🌱 Currently learning: **LLM agents & MLOps**
 - ⚡ Fun fact: **100+ merged pull requests** and counting
 
 ### 🛠️ Tech stack
